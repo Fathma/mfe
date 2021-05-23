@@ -8,9 +8,9 @@ on:
       - 'packages/container/**'
 
   
-# defaults:
-  # run:
-    # working-directoty: ../../packages/container
+defaults:
+  run:
+    working-directoty: ../../packages/container
 
 
 
